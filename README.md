@@ -1,2 +1,0 @@
-# NanxinWang
-blog
